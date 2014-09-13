@@ -1,0 +1,15 @@
+{
+    "launch_path": "/index.html",
+    "installs_allowed_from": [
+        "*"
+    ],
+    "version": "1.0.0",
+    "name": "Citations",
+    "pkgName": "co.wolfstack.citations",
+    "description": "Citations.co HTML5 [cordova] apps by Wolfstack",
+    "developer": {
+        "name": "Wolfstack Team",
+        "url": "http://cordova.io"
+    },
+    "icons": {}
+}
